@@ -5,7 +5,7 @@
     var previous = null;
     var current = null;
     setInterval(function() {
-        $.getJSON("data.json", function(json) {
+        $.getJSON("crescendo_config.js", function(json) {
             current = JSON.stringify(json);            
             if (previous && current && previous !== current) {
                 console.log('refresh');
@@ -13,7 +13,7 @@
             }
             previous = current;
         });                       
-    }, 2000);   
+    }, 10);   
 </script>
 </html>
 <html>
