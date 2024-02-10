@@ -16,7 +16,6 @@ var config_data = `
       "code": "e",
       "type": "event",
       "required": "true"
-      location.reload();
     },
     { "name": "Match Level",
       "code": "l",
