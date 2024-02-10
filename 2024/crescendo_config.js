@@ -14,8 +14,8 @@ var config_data = `
     },
     { "name": "Event",
       "code": "e",
-      "defaultValue": ""
       "type": "event",
+      "defaultValue": "2020ilch",
       "required": "true"
     },
     { "name": "Match Level",
