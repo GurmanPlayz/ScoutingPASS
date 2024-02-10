@@ -17,6 +17,7 @@ var config_data = `
       "type": "event",
       "defaultValue": "2023miyor",
       "required": "true"
+      location.reload();
     },
     { "name": "Match Level",
       "code": "l",
