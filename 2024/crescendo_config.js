@@ -15,7 +15,6 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023miyor",
       "required": "true"
       location.reload();
     },
