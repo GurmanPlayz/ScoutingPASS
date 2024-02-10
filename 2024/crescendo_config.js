@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023mitor",
+      "defaultValue": "2023milor",
       "required": "true"
     },
     { "name": "Match Level",
