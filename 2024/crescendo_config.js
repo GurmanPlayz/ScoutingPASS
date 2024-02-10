@@ -14,6 +14,7 @@ var config_data = `
     },
     { "name": "Event",
       "code": "e",
+      "defaultvalue": ""
       "type": "event",
       "required": "true"
     },
